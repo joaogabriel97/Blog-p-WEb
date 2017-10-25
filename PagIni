@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Oh...BLog!</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+<!--INSERÇÃO DO VÍDEO NO SITE,TAMANHO DE 800,CENTRALIZADO e UTILIZANDO CLASSE"a",QUE CRIA DISTÂNCIA DE MARGEM DO TOPO DA PÁGINA-->
+<ul>
+  <li><a href="ini.html">Oh...Blooog!</a></li>
+  <!--<li><a href="alterarcadastro.php">Alterar Cadastro</a></li>
+  <li><a href="apagar.php">Apagar a Merda do Meu Cadastro!</a></li>
+  <li><a href="index.php">Sair Desta Bosta de Site</a></li>
+  <!--<li><a href="bf.html">&Ocirc; Bibsfiha</a></li>-->
+</ul>
+<!--Comando marquee para deslizar a imagem de um lado para outro-->
+ <center>
+<!--TEXTO DA PÁGINA-->
+<div class="titulo">
+BEM-VINDO AO BLOG,ESCOLHA UMA DAS OPÇÕES ABAIXO</div>
+<div><input name="" type="button" onClick="window.open('ex.php')" value="Criar Cadastro">
+</div>
+<div><input name="" type="button" onClick="window.open('1.html')" value="Logar">
+</div>
+</center>
+</body>
+</html>
